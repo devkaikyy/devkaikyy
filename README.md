@@ -3,6 +3,7 @@
 Olá me chamo Kaiky Hernaide Dos Santos Silva tenho 18 anos, atualmente estou estudando desenvolvimento Front-end.
 Meu objetivo é me tornar um desenvolvedor Full Stack, entendendo tanto o lado visual quanto o funcionamento interno das aplicações. Busco evoluir a cada projeto, aprender novas ferramentas e contruir soluções que realmente façam diferença.
 
+ <a href="https://instagram.com/kaik_yyo7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23000000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 ### 🤖 Linguagens e tecnologias que eu uso atualmente!
 
